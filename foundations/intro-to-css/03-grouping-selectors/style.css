@@ -1,0 +1,12 @@
+.back_one{
+    background-color: black;
+    color: white;
+}
+.back_two{
+    background-color: yellow;
+    color: black;
+}
+.font{
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
