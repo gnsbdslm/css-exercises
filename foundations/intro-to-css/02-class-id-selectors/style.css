@@ -1,0 +1,15 @@
+.red_back{
+    background-color: #f36f6f;
+    font-family: Verdana, "DejavuSans", sans-serif;
+}
+#num_two{
+    color: #2300eb;
+    font-size: 36px;
+}
+.fontsize{
+    font-size: 24px;
+}
+#num_four{
+    background-color: rgb(134, 243, 134);
+    font-weight: bold;
+}
